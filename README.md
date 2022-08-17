@@ -1,6 +1,4 @@
-<a href='https://redux-shoping-cart-react.netlify.app/'>
-<h1>
-Shopping Cart With React-Redux <sup>Live site</sup></h1></a>
+<h1>Shopping Cart With React-Redux</h1>
 
 <img src="https://i.ibb.co/C8RnPyW/shopping-cart.png" alt="shopping-cart" border="0">
 
